@@ -3,7 +3,7 @@
 
    <a href="http://Instagram.com/ataa_ata" target=new><img src="http://in.sitekodlari.com/insta/4.png" border="0"></a>    <a href="https://www.linkedin.com/in/atakan-reyhanioğlu-631730185/" target=new><img src="https://i.ibb.co/Sf8y588/Ads-z-tasar-m-4.png" border="0"></a> 
 
-## I'm a Backend Developer, Mechanical Engineer, and Learner!!
+## I'm a Lifetime Learner!!
 
 - 🔭 I've just finished C# course which is "Qualified Software Developer Camp"
 - 🌱 I’m currently learning programming with Java
