@@ -23,7 +23,8 @@
 <img align="left" alt="GitHub" width="72px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Angular" width="72px" src="https://www.mehmetaltunel.com/wp-content/uploads/2020/02/Angular_full_color_logo.svg_.png" />
 <img align="left" alt="React" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" />
+</div>
 
-## 📌 GitHub Stats And Top Languages
+
 
 
