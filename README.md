@@ -5,7 +5,7 @@
 
 ##  📚 I'm a Lifetime Learner!!
 
-- 🔭 I've just finished C# course which is "Qualified Software Developer Camp"
+- 🔭 I've just finished ReCap Project (Rent A Car System)
 - 🌱 I’m currently learning programming with Java
 - 👯 I’m looking to collaborate with other content creators
 - 🥅  2021 Goals: Contribute more to Open Source projects
