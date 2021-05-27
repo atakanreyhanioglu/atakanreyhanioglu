@@ -23,6 +23,9 @@
 <img align="left" alt="Angular" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Angular-logo.png" />
 <img align="left" alt="React" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" />
 </div>
+<img align="left" alt="React" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" />
+</div>
+
 
 
 
