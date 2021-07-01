@@ -5,8 +5,8 @@
 
 ##  📚 I'm a Lifetime Learner!!
 
-- 🔭 I've just finished ReCap Project (Rent A Car System)
-- 🌱 I’m currently learning Cloud Deployment Processes
+- 🔭 I've just finished Human Resource System (HRMS)
+- 🌱 I’m currently learning Cloud Management Processes
 - 👯 I’m looking to collaborate with other content creators
 - 🥅  2021 Goals: Contribute more to Open Source projects
 - ⚡  Fun fact: I love to dance and play guitar 
