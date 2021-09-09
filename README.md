@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="loading" width="75%" src="https://www.criticalcase.com/wp-content/uploads/2021/02/loading.png" />
+<img align="left" alt="loading" width="50%" src="https://www.criticalcase.com/wp-content/uploads/2021/02/loading.png" />
 
 
 
