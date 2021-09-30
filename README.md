@@ -26,13 +26,17 @@
 <img align="left" src="https://user-images.githubusercontent.com/95200/64285204-99c04900-cf5b-11e9-925c-4743006ce420.png" alt="bullmq" width="75" height="34"/></a><a>
 <img align="left" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" alt="socketio" width="40" height="40"/></a><a>
 <img align="left" src="https://keyholesoftware.com/wp-content/uploads/PM2.png" alt="pm2" width="55" height="34"/></a><a>
+</p>
+<p align="left">
+<br>
 <img align="left" alt="docker" width="50" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/> </a><a>
 <img align="left" alt="Vue" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" /></a><a>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a><a>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a><a>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a>
-<img align="left" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="mssql" width="40" height="40"/></a><a><br><br><br><br><br><br>
+<img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+<img align="left" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" alt="mssql" width="40" height="40"/></a><a>
 </p>
 
 
