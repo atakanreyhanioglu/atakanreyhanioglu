@@ -20,9 +20,9 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 <img align="left" alt="javascript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
-<img align="left" src="https://user-images.githubusercontent.com/95200/64285204-99c04900-cf5b-11e9-925c-4743006ce420.png" alt="bullmq" width="82" height="38"/>
+<img align="left" src="https://user-images.githubusercontent.com/95200/64285204-99c04900-cf5b-11e9-925c-4743006ce420.png" alt="bullmq" width="75" height="34"/>
 <img align="left" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" alt="socketio" width="40" height="40"/>
-<img align="left" src="https://keyholesoftware.com/wp-content/uploads/PM2.png" alt="socketio" width="60" height="40"/>
+<img align="left" src="https://keyholesoftware.com/wp-content/uploads/PM2.png" alt="pm2" width="55" height="34"/>
 <img align="left" alt="docker" width="50" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/> 
 <img align="left" alt="Vue" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
