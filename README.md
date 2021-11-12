@@ -6,7 +6,7 @@
 
 ##  📚 I'm a Lifetime Learner!!
 
-- 🌱 I’m currently working on Dockerizing Processes
+- 🌱 I’m currently working on Mockerize app
 - 👯 I’m looking to collaborate with other content creators
 - 🥅  2021 Goals: Contribute to Open Source projects
 - ⚡  Fun fact: I love latin dance.
