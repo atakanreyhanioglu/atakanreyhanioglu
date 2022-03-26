@@ -48,6 +48,7 @@ I'm a Lifetime Learner who strives to be able to do anything by learning and pra
 
 #### ORM
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![TypeORM](https://i.ibb.co/0y3Q6jw/Puppeteer-4.png)
 
 #### Testing
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
